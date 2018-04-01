@@ -26,7 +26,7 @@ MCTS also confirms this,but that's just for probability，for masters they alway
 
 ## Results
 
-
+I just show you the process,do not mind my move.
 ```
     0   |   _       _       _    
     1   |   _       X       _    
